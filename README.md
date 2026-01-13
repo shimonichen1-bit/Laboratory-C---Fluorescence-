@@ -3,8 +3,6 @@
 ## Overview
 This repository contains the data analysis, visualization, and source code for the Fluorescence experiment conducted as part of the Advanced Physics Laboratory C. 
 
-The project focuses on measuring the fluorescence spectrum of [Specific Material, e.g., Quinine] and determining the fluorescence lifetime.
-
 ## Project Structure
 * `/data`: Raw experimental data (CSV/TXT files).
 * `/scripts`: Python scripts for data processing and fitting.
