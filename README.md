@@ -1,0 +1,21 @@
+# Fluorescence Experiment - Physics Lab C
+
+## Overview
+This repository contains the data analysis, visualization, and source code for the Fluorescence experiment conducted as part of the Advanced Physics Laboratory C. 
+
+The project focuses on measuring the fluorescence spectrum of [Specific Material, e.g., Quinine] and determining the fluorescence lifetime.
+
+## Project Structure
+* `/data`: Raw experimental data (CSV/TXT files).
+* `/scripts`: Python scripts for data processing and fitting.
+* `/plots`: Generated figures for the final report.
+* `/report`: LaTeX source files (or link to Overleaf).
+
+## Requirements
+To run the scripts, you will need:
+* Python 3.x
+* NumPy, SciPy, Matplotlib
+
+## How to Use
+1. Clone the repository.
+2. Run `scripts/fit_lifetime.py` to process raw decay data.
