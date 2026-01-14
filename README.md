@@ -11,9 +11,7 @@ This repository contains the data analysis, visualization, and source code for t
 
 ## Project Structure
 * [scripts/](scripts/): Contains the core analysis code.
-    * `process_intensity.m`: MATLAB script for interactive beam profiling.
-    * `linear_fit_analysis.py`: Python script for Beer-Lambert modeling and residual plotting.
-* [data/](data/): Raw `.csv` files exported from MATLAB.
+* [data/](data/): Raw `.csv` files.
 * [output/](output/): Final high-resolution PNG graphs.
 
 ## Requirements
