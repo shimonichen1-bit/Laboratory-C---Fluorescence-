@@ -4,15 +4,10 @@
 This repository contains the data analysis, visualization, and source code for the Fluorescence experiment conducted as part of the Advanced Physics Laboratory C. 
 
 ## Project Structure
-* `/data`: Raw experimental data (CSV/TXT files).
-* `/scripts`: Python scripts for data processing and fitting.
-* `/plots`: Generated figures for the final report.
-* `/report`: LaTeX source files (or link to Overleaf).
-
-## Project Structure
 * [scripts/](scripts/): Contains the core analysis code.
 * [data/](data/): Raw `.csv` files.
-* [output/](output/): Final high-resolution PNG graphs.
+* [output/](output/): Final high-resolution graphs.
+* [report/](report/): link to Overleaf.
 
 ## Requirements
 To run the scripts, you will need:
