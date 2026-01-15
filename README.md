@@ -6,7 +6,7 @@ This repository contains the data analysis, visualization, and source code for t
 ## Project Structure
 * [scripts/](scripts/): Contains the core analysis code.
 * [data/](data/): Raw `.csv` files.
-* [output/](output/): Final high-resolution graphs.
+* [output/](output/): Final high-resolution graphs.(part B)
 * [report/](report/): link to Overleaf.
 
 ## Requirements
