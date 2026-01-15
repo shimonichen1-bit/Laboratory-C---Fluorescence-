@@ -12,6 +12,7 @@ This repository contains the data analysis, visualization, and source code for t
 ## Requirements
 To run the scripts, you will need:
 * Python 3.x
+* MATLAB
 * NumPy, pandas, Matplotlib, os and re 
 
 ## How to Use
