@@ -7,7 +7,7 @@ This repository contains the data analysis, visualization, and source code for t
 * [scripts/](scripts/): Contains the core analysis code.
 * [data/](data/): Raw `.csv` files.
 * [output/](output/): Final high-resolution graphs.
-* [report/](report/):https://www.overleaf.com/read/ytwpfnbtzgqh#6df9f4.
+* [report/](report/): https://www.overleaf.com/read/ytwpfnbtzgqh#6df9f4.
 
 ## Requirements
 To run the scripts, you will need:
